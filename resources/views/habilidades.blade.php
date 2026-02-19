@@ -8,28 +8,20 @@
 </head>
 <body>
     <h1>⚡ HABILIDADES</h1>
+    
     <h3>Técnicas:</h3>
     <ul>
-    <p>HTML</p>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Python</li>
+        <li>JavaScript</li>
     </ul>
-    <ul>
-    <p>CSS</p>
-    </ul>
-    <ul>
-    <p>Python</p>
-    </ul>
-    <ul>
-    <p>JavaScript</p>
-    </ul>
+    
     <h3>Blandas:</h3>
     <ul>
-    <p>Trabajo en equipo</p>
-    </ul>
-    <ul>
-    <p>Liderazgo</p>
-    </ul>
-    <ul>
-    <p>Dedicación</p>
+        <li>Trabajo en equipo</li>
+        <li>Liderazgo</li>
+        <li>Dedicación</li>
     </ul>
 </body>
 </html>

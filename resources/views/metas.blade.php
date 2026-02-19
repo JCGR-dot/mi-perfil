@@ -8,13 +8,19 @@
 </head>
 <body>
     <h1>🚀 METAS</h1>
+    
     <h3>Corto plazo:</h3>
-    <ul><li>Terminar el taller</li></ul>
-    <ul><li>Terminar la carrera</li></ul>
-    <ul><li>Comprender Laravel</li></ul>
+    <ul>
+        <li>Terminar el taller</li>
+        <li>Terminar la carrera</li>
+        <li>Comprender Laravel</li>
+    </ul>
+    
     <h3>Largo plazo:</h3>
-    <ul><li>Ejercer mi profesión</li></ul>
-    <ul><li>Salir del país</li></ul>
-    <ul><li>Terminar el taller</li></ul>
+    <ul>
+        <li>Ejercer mi profesión</li>
+        <li>Salir del país</li>
+        <li>Terminar el taller</li>
+    </ul>
 </body>
 </html>
